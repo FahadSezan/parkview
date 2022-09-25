@@ -1,0 +1,112 @@
+{
+    "sevenAppo": [
+        {
+            "id": 1,
+            "date": "19/9/2022",
+            "morning": "10",
+            "evening": "30"
+        },
+        {
+            "id": 2,
+            "date": "20/9/2022",
+            "morning": "11",
+            "evening": "31"
+        },
+        {
+            "id": 3,
+            "date": "21/9/2022",
+            "morning": "12",
+            "evening": "32"
+        }
+    ],
+    "pendingAppo": [
+        {
+            "id": 1,
+            "serial": "11",
+            "name": "Eshan",
+            "age": "27"
+        },
+        {
+            "id": 2,
+            "serial": "12",
+            "name": "Paul",
+            "age": "25"
+        },
+        {
+            "id": 3,
+            "serial": "13",
+            "name": "Asif",
+            "age": "30"
+        }
+    ],
+    "completedAppo": [
+        {
+            "id": 1,
+            "serial": "11",
+            "name": "Eshan",
+            "age": "27"
+        },
+        {
+            "id": 2,
+            "serial": "12",
+            "name": "Paul",
+            "age": "25"
+        }
+    ],
+    "appoHistory": [
+        {
+            "id": 1,
+            "name": "DR. A. S. M. ZAHED",
+            "degree": "MBBS, FCPS(Medicine)",
+            "designation": "Associate Professor,Medicine",
+            "institute": "Chattagram Medical College",
+            "room": 308,
+            "serialNo": 27,
+            "appoDate": "19/09/2022",
+            "appoTime": "06:45 PM",
+            "status": "Pending"
+        },
+        {
+            "id": 2,
+            "name": "DR. Mainul Hossen",
+            "degree": "MBBS, FCPS(Venereal)",
+            "designation": "Associate Professor,Venereal",
+            "institute": "mPair Hospital",
+            "room": 420,
+            "serialNo": 510,
+            "appoDate": "20/09/2022",
+            "appoTime": "12:45 PM",
+            "status": "Done"
+        }
+    ],
+    "docList":[
+        {
+            "id":1,
+            "name": "DR. A. S. M. ZAHED",
+            "degree": "MBBS, FCPS(Medicine)",
+            "designation": "Associate Professor,Medicine",
+            "institute": "Chattagram Medical College",
+            "dept":"MEDICINE",
+            "room": 308,
+            "consultancyFee":1000,
+            "availableSlotStart":"05:00 PM",
+            "availableSlotEnd":"10:00 PM",
+            "days":"Sat,Sun,Mon,Tue,Wed"
+        },
+        {
+            "id":2,
+            "name": "DR. Mainul Hossen",
+            "degree": "MBBS, FCPS(Venereal)",
+            "designation": "Associate Professor,Venereal",
+            "institute": "mPair Hospital",
+            "dept":"VENEREAL",
+            "room": 420,
+            "consultancyFee":10000,
+            "availableSlotStart":"12:00 AM",
+            "availableSlotEnd":"08:00 AM",
+            "days":"Sat,Sun,Mon,Tue,Wed,Fri"
+        }
+    ]
+
+    
+}
