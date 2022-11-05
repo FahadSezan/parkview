@@ -73,7 +73,7 @@
                         </router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/patient_login"
+                        <router-link to="/"
                             class="nav-link btn border-nav-btn mx-2 text-dark px-4 shadow-none">
                             <div class="row">
                                 <div class="col-lg-10 p-0">
